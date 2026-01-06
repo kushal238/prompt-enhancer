@@ -34,3 +34,4 @@ npm run build
 4. Type a prompt (e.g. "write email to boss") and click the wand.
 5. Preview the enhanced prompt and click **Apply**.
 
+
